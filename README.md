@@ -109,6 +109,18 @@ const sivRam = {
 
 ---
 
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sivramshastri/sivramshastri/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sivramshastri/sivramshastri/output/github-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/sivramshastri/sivramshastri/output/github-snake.svg" width="100%"/>
+  </picture>
+</div>
+
+---
+
 ## 🤝 Let's Connect
 
 <div align="center">
