@@ -1,0 +1,22 @@
+<svg width="800" height="60" viewBox="0 0 800 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="30%" style="stop-color:#161b22"/>
+      <stop offset="70%" style="stop-color:#161b22"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="60" fill="url(#footerGrad)" rx="8"/>
+  <line x1="0" y1="1" x2="800" y2="1" stroke="#00FFB3" stroke-width="1" opacity="0.4"/>
+  <circle cx="80" cy="30" r="2" fill="#00FFB3" opacity="0.3"/>
+  <circle cx="140" cy="30" r="2" fill="#00FFB3" opacity="0.3"/>
+  <circle cx="200" cy="30" r="2" fill="#00FFB3" opacity="0.3"/>
+  <circle cx="260" cy="30" r="2" fill="#00FFB3" opacity="0.3"/>
+  <text x="400" y="24" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#8b949e">Made with &#10084; by Zayd — Egypt &#127466;&#127468;</text>
+  <text x="400" y="44" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#00FFB3" opacity="0.8">Keep Exploring · Keep Building · Keep Growing &#128640;</text>
+  <circle cx="540" cy="30" r="2" fill="#00FFB3" opacity="0.3"/>
+  <circle cx="600" cy="30" r="2" fill="#00FFB3" opacity="0.3"/>
+  <circle cx="660" cy="30" r="2" fill="#00FFB3" opacity="0.3"/>
+  <circle cx="720" cy="30" r="2" fill="#00FFB3" opacity="0.3"/>
+</svg>

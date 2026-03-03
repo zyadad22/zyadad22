@@ -1,0 +1,121 @@
+<svg width="780" height="180" viewBox="0 0 780 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="skyBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#161b22"/>
+    </linearGradient>
+    <linearGradient id="bG" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#00FFB3" stop-opacity="0.9"/>
+      <stop offset="100%" style="stop-color:#008060" stop-opacity="0.5"/>
+    </linearGradient>
+    <linearGradient id="bG2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#00c9ff" stop-opacity="0.8"/>
+      <stop offset="100%" style="stop-color:#0055a0" stop-opacity="0.4"/>
+    </linearGradient>
+  </defs>
+  <rect width="780" height="180" fill="url(#skyBg)" rx="12" stroke="#21262d" stroke-width="1"/>
+  <!-- Stars -->
+  <circle cx="50" cy="18" r="1" fill="white" opacity="0.5"/>
+  <circle cx="130" cy="12" r="1.5" fill="white" opacity="0.7"/>
+  <circle cx="220" cy="22" r="1" fill="white" opacity="0.4"/>
+  <circle cx="310" cy="8" r="1" fill="white" opacity="0.6"/>
+  <circle cx="430" cy="16" r="1.5" fill="white" opacity="0.5"/>
+  <circle cx="560" cy="10" r="1" fill="white" opacity="0.7"/>
+  <circle cx="660" cy="20" r="1" fill="white" opacity="0.4"/>
+  <circle cx="740" cy="6" r="1.5" fill="white" opacity="0.6"/>
+  <!-- Moon -->
+  <circle cx="720" cy="25" r="10" fill="#1a1f2e"/>
+  <circle cx="724" cy="22" r="9" fill="#0d1117"/>
+
+  <!-- Title -->
+  <text x="390" y="26" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#00FFB3" font-weight="bold">2024 GitHub Skyline — zayd</text>
+  <text x="390" y="40" text-anchor="middle" font-family="Arial" font-size="9" fill="#8b949e">968 contributions · Egypt &#127466;&#127468;</text>
+
+  <!-- Ground -->
+  <line x1="0" y1="155" x2="780" y2="155" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Month labels -->
+  <text x="28" y="168" font-family="Arial" font-size="7" fill="#8b949e">Jan</text>
+  <text x="88" y="168" font-family="Arial" font-size="7" fill="#8b949e">Feb</text>
+  <text x="148" y="168" font-family="Arial" font-size="7" fill="#8b949e">Mar</text>
+  <text x="208" y="168" font-family="Arial" font-size="7" fill="#8b949e">Apr</text>
+  <text x="268" y="168" font-family="Arial" font-size="7" fill="#8b949e">May</text>
+  <text x="328" y="168" font-family="Arial" font-size="7" fill="#8b949e">Jun</text>
+  <text x="388" y="168" font-family="Arial" font-size="7" fill="#8b949e">Jul</text>
+  <text x="448" y="168" font-family="Arial" font-size="7" fill="#8b949e">Aug</text>
+  <text x="508" y="168" font-family="Arial" font-size="7" fill="#8b949e">Sep</text>
+  <text x="568" y="168" font-family="Arial" font-size="7" fill="#8b949e">Oct</text>
+  <text x="628" y="168" font-family="Arial" font-size="7" fill="#8b949e">Nov</text>
+  <text x="688" y="168" font-family="Arial" font-size="7" fill="#8b949e">Dec</text>
+
+  <!-- Jan -->
+  <rect x="10" y="142" width="7" height="13" fill="url(#bG)" rx="1"/>
+  <rect x="19" y="133" width="7" height="22" fill="url(#bG)" rx="1"/>
+  <rect x="28" y="138" width="7" height="17" fill="url(#bG)" rx="1"/>
+  <rect x="37" y="128" width="7" height="27" fill="url(#bG)" rx="1"/>
+  <rect x="46" y="135" width="7" height="20" fill="url(#bG)" rx="1"/>
+  <!-- Feb -->
+  <rect x="70" y="120" width="7" height="35" fill="url(#bG2)" rx="1"/>
+  <rect x="79" y="112" width="7" height="43" fill="url(#bG2)" rx="1"/>
+  <rect x="88" y="122" width="7" height="33" fill="url(#bG2)" rx="1"/>
+  <rect x="97" y="117" width="7" height="38" fill="url(#bG2)" rx="1"/>
+  <!-- Mar -->
+  <rect x="130" y="108" width="7" height="47" fill="url(#bG)" rx="1"/>
+  <rect x="139" y="96" width="7" height="59" fill="url(#bG)" rx="1"/>
+  <rect x="148" y="102" width="7" height="53" fill="url(#bG)" rx="1"/>
+  <rect x="157" y="112" width="7" height="43" fill="url(#bG)" rx="1"/>
+  <rect x="166" y="105" width="7" height="50" fill="url(#bG)" rx="1"/>
+  <!-- Apr -->
+  <rect x="190" y="122" width="7" height="33" fill="url(#bG2)" rx="1"/>
+  <rect x="199" y="130" width="7" height="25" fill="url(#bG2)" rx="1"/>
+  <rect x="208" y="120" width="7" height="35" fill="url(#bG2)" rx="1"/>
+  <rect x="217" y="125" width="7" height="30" fill="url(#bG2)" rx="1"/>
+  <!-- May -->
+  <rect x="250" y="92" width="7" height="63" fill="url(#bG)" rx="1"/>
+  <rect x="259" y="82" width="7" height="73" fill="url(#bG)" rx="1"/>
+  <rect x="268" y="74" width="7" height="81" fill="url(#bG)" rx="1"/>
+  <rect x="277" y="87" width="7" height="68" fill="url(#bG)" rx="1"/>
+  <rect x="286" y="80" width="7" height="75" fill="url(#bG)" rx="1"/>
+  <!-- Jun -->
+  <rect x="310" y="118" width="7" height="37" fill="url(#bG2)" rx="1"/>
+  <rect x="319" y="110" width="7" height="45" fill="url(#bG2)" rx="1"/>
+  <rect x="328" y="120" width="7" height="35" fill="url(#bG2)" rx="1"/>
+  <rect x="337" y="114" width="7" height="41" fill="url(#bG2)" rx="1"/>
+  <!-- Jul: BIG spike -->
+  <rect x="370" y="58" width="7" height="97" fill="url(#bG)" rx="1"/>
+  <rect x="379" y="48" width="7" height="107" fill="url(#bG)" rx="1"/>
+  <rect x="388" y="53" width="7" height="102" fill="url(#bG)" rx="1"/>
+  <rect x="397" y="62" width="7" height="93" fill="url(#bG)" rx="1"/>
+  <rect x="406" y="50" width="7" height="105" fill="url(#bG)" rx="1"/>
+  <!-- Glow on spike top -->
+  <rect x="377" y="46" width="11" height="4" fill="#00FFB3" rx="1" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="1.8s" repeatCount="indefinite"/>
+  </rect>
+  <!-- Aug -->
+  <rect x="430" y="100" width="7" height="55" fill="url(#bG2)" rx="1"/>
+  <rect x="439" y="93" width="7" height="62" fill="url(#bG2)" rx="1"/>
+  <rect x="448" y="106" width="7" height="49" fill="url(#bG2)" rx="1"/>
+  <rect x="457" y="98" width="7" height="57" fill="url(#bG2)" rx="1"/>
+  <!-- Sep -->
+  <rect x="490" y="122" width="7" height="33" fill="url(#bG)" rx="1"/>
+  <rect x="499" y="114" width="7" height="41" fill="url(#bG)" rx="1"/>
+  <rect x="508" y="126" width="7" height="29" fill="url(#bG)" rx="1"/>
+  <rect x="517" y="118" width="7" height="37" fill="url(#bG)" rx="1"/>
+  <!-- Oct -->
+  <rect x="550" y="108" width="7" height="47" fill="url(#bG2)" rx="1"/>
+  <rect x="559" y="100" width="7" height="55" fill="url(#bG2)" rx="1"/>
+  <rect x="568" y="116" width="7" height="39" fill="url(#bG2)" rx="1"/>
+  <rect x="577" y="106" width="7" height="49" fill="url(#bG2)" rx="1"/>
+  <rect x="586" y="112" width="7" height="43" fill="url(#bG2)" rx="1"/>
+  <!-- Nov -->
+  <rect x="610" y="130" width="7" height="25" fill="url(#bG)" rx="1"/>
+  <rect x="619" y="122" width="7" height="33" fill="url(#bG)" rx="1"/>
+  <rect x="628" y="134" width="7" height="21" fill="url(#bG)" rx="1"/>
+  <rect x="637" y="127" width="7" height="28" fill="url(#bG)" rx="1"/>
+  <!-- Dec -->
+  <rect x="670" y="137" width="7" height="18" fill="url(#bG2)" rx="1"/>
+  <rect x="679" y="130" width="7" height="25" fill="url(#bG2)" rx="1"/>
+  <rect x="688" y="140" width="7" height="15" fill="url(#bG2)" rx="1"/>
+  <rect x="697" y="134" width="7" height="21" fill="url(#bG2)" rx="1"/>
+  <rect x="706" y="142" width="7" height="13" fill="url(#bG2)" rx="1"/>
+</svg>
