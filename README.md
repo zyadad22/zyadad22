@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Zayd - Full Stack Developer"/>
-
-<br/>
+<img src="https://raw.githubusercontent.com/zayd/zayd/main/assets/header.svg" width="100%" alt="Zayd - Full Stack Developer"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFB3&center=true&vCenter=true&width=650&lines=Hi+there!+%F0%9F%91%8B+I'm+Zayd;Full+Stack+Web+Developer+%F0%9F%92%BB;Web3+%26+Cloud+Explorer+%E2%98%81%EF%B8%8F;Based+in+Egypt+%F0%9F%87%AA%F0%9F%87%AC;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="360"/>
+
+<br/>
 
 ![](https://img.shields.io/badge/Open%20to%20Collaborate-00FFB3?style=for-the-badge&logo=github&logoColor=black)
 ![](https://img.shields.io/badge/Egypt-EG-red?style=for-the-badge&logo=google-maps&logoColor=white)
@@ -19,7 +21,7 @@
 
 ## 👨🏻‍💻 About Me
 
-\`\`\`javascript
+```javascript
 const zayd = {
   name:       "Zayd",
   role:       "Full Stack Developer",
@@ -28,7 +30,7 @@ const zayd = {
   experience: "Former Project Lead Intern @ GirlScript Foundation",
   passion:    "Meetups for learning, Conferences for networking ⚡",
   motto:      '"Explore 🔥 and Explode 💥 with knowledge"',
-  available:  true,
+  available:  true,   // open to collaborate!
 
   skills: {
     frontend:  ["HTML", "CSS", "Sass", "JavaScript", "React", "Gatsby"],
@@ -37,7 +39,7 @@ const zayd = {
     tools:     ["Git", "Webpack", "Postman"]
   }
 };
-\`\`\`
+```
 
 <br/>
 
@@ -85,14 +87,6 @@ const zayd = {
 
 ---
 
-## 💡 My Dev Philosophy
-
-<div align="center">
-<img src="assets/philosophy.svg" width="100%" alt="Dev Philosophy"/>
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -115,10 +109,10 @@ const zayd = {
 
 ---
 
-## 🏆 Achievements & Trophies
+## 🏆 Trophies
 
 <div align="center">
-<img src="assets/trophies.svg" width="100%" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zayd&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" width="100%"/>
 </div>
 
 ---
@@ -126,15 +120,11 @@ const zayd = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="assets/snake.svg" width="100%" alt="Contribution Snake"/>
-</div>
-
----
-
-## 🗺️ My Journey
-
-<div align="center">
-<img src="assets/journey.svg" width="100%" alt="Career Journey"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zayd/zayd/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zayd/zayd/output/github-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/zayd/zayd/output/github-snake.svg" width="100%"/>
+  </picture>
 </div>
 
 ---
@@ -147,13 +137,22 @@ const zayd = {
 
 [![GitHub Skyline](https://img.shields.io/badge/View%20My%20GitHub%20Skyline-00FFB3?style=for-the-badge&logo=github&logoColor=black)](https://skyline.github.com/zayd/2024)
 
-<img src="assets/skyline.svg" width="100%" alt="GitHub Skyline 2024"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zayd&theme=tokyonight" width="680"/>
-
-<br/><br/>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://skyline.github.com/zayd/2024">
+        <img src="https://github-readme-stats.vercel.app/api?username=zayd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00FFB3&text_color=ffffff&count_private=true" width="400"/>
+      </a>
+      <br/>
+      <sub><b>🗓️ <a href="https://skyline.github.com/zayd/2024">skyline.github.com/zayd/2024</a></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zayd&theme=tokyonight" width="420"/>
+      <br/>
+      <sub><b>📈 Contribution Timeline</b></sub>
+    </td>
+  </tr>
+</table>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zayd&theme=tokyonight" height="160"/>
 &nbsp;
@@ -161,14 +160,6 @@ const zayd = {
 &nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zayd&theme=tokyonight&utcOffset=2" height="160"/>
 
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-<img src="assets/focus.svg" width="100%" alt="Current Focus"/>
 </div>
 
 ---
@@ -190,6 +181,4 @@ const zayd = {
 
 <br/>
 
-<div align="center">
-<img src="assets/footer.svg" width="100%" alt="Footer"/>
-</div>
+<img src="https://raw.githubusercontent.com/zayd/zayd/main/assets/footer.svg" width="100%" alt="footer"/>
