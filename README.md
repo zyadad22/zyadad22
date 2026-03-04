@@ -133,13 +133,7 @@ const zayd = {
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://skyline.github.com/zayd/2024">
-        <img src="https://github-readme-stats.vercel.app/api?username=zayd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00FFB3&text_color=ffffff&count_private=true" width="400"/>
-      </a>
-      <br/>
-      <sub><b>🗓️ <a href="https://skyline.github.com/zayd/2024">skyline.github.com/zayd/2024</a></b></sub>
-    </td>
+    
     <td align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zayd&theme=tokyonight" width="420"/>
       <br/>
@@ -175,4 +169,4 @@ const zayd = {
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/zayd/zayd/main/assets/footer.svg" width="100%" alt="footer"/>
+
