@@ -89,11 +89,7 @@ const zayd = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zayd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&bg_color=0d1117" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" height="170"/>
-</div>
+
 
 <br/>
 
@@ -111,9 +107,7 @@ const zayd = {
 
 ## 🏆 Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zayd&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" width="100%"/>
-</div>
+
 
 ---
 
