@@ -131,16 +131,7 @@ const zayd = {
 
 [![GitHub Skyline](https://img.shields.io/badge/View%20My%20GitHub%20Skyline-00FFB3?style=for-the-badge&logo=github&logoColor=black)](https://skyline.github.com/zayd/2024)
 
-<table>
-  <tr>
-    
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zayd&theme=tokyonight" width="420"/>
-      <br/>
-      <sub><b>📈 Contribution Timeline</b></sub>
-    </td>
-  </tr>
-</table>
+
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zayd&theme=tokyonight" height="160"/>
 &nbsp;
