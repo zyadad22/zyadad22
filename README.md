@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,19&height=200&section=header&text=Zayd%20•%20FULLSTACK%20DEV&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=BUILDING%20THE%20WEB%20OF%20TOMORROW&descSize=20&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,19&height=220&section=header&text=Zayd%20•%20FULLSTACK%20DEV&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=32&desc=BUILDING%20THE%20WEB%20OF%20TOMORROW&descSize=22&descAlignY=55" width="100%"/>
 
 <div align="center">
 
@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/STATUS-🔥_OPEN_TO_COLLABORATE-00FFB3?style=for-the-badge&labelColor=000000"/>
 <img src="https://img.shields.io/badge/LOCATION-🇪🇬_EGYPT-red?style=for-the-badge&labelColor=000000"/>
 <img src="https://img.shields.io/badge/TIMEZONE-GMT%2B2-blue?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/COFFEE_LEVEL-☕_ALWAYS_FULL-brown?style=for-the-badge&labelColor=000000"/>
 
 </div>
 
@@ -52,9 +53,9 @@ const zayd = {
   },
 
   achievements: {
-    sih_finalist:    "🏆 SIH 2019 Grand Finalist",
-    open_source:     "🌟 Active Open Source Contributor",
-    community:       "🤝 Meetup & Conference Speaker"
+    sih_finalist:  "🏆 SIH 2019 Grand Finalist",
+    open_source:   "🌟 Active Open Source Contributor",
+    community:     "🤝 Meetup & Conference Speaker"
   },
 
   currentlyLearning: ["Web3", "Smart Contracts", "Kubernetes"],
@@ -74,6 +75,40 @@ console.log("🚀 Ready to build something AMAZING? Let's connect!");
 | 🇪🇬 | Based in **Egypt** | ⚡ | Loves **Meetups & Conferences** |
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+## 🗺️ MY DEVELOPER JOURNEY
+
+</div>
+
+```
+🎓 Started Learning Web Dev ──────────────────────────────────────────────────── 2019
+   └─ HTML, CSS, JavaScript fundamentals
+
+🏆 SIH 2019 Grand Finalist ──────────────────────────────────────────────────── 2019
+   └─ Built a full-stack solution under 36 hours
+
+💼 Project Lead Intern @ GirlScript Foundation ──────────────────────────────── 2020
+   └─ Led a team, shipped real features, learned collaboration
+
+⚛️ Mastered React Ecosystem ─────────────────────────────────────────────────── 2021
+   └─ React, Redux, Gatsby, Webpack — pixel-perfect UIs
+
+🔧 Full-Stack with Node.js + MongoDB ────────────────────────────────────────── 2022
+   └─ RESTful APIs, authentication, database design
+
+☁️ Cloud Explorer: GCP & Azure ──────────────────────────────────────────────── 2023
+   └─ Serverless, deployments, cloud architecture
+
+🌐 Entered Web3 Space ───────────────────────────────────────────────────────── 2024
+   └─ Blockchain, Solidity, DeFi protocols, smart contracts
+
+🚀 NOW: Building the future, one commit at a time ───────────────────────────── 2026
+   └─ Full-stack • Web3 • Cloud • Open Source
+```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -164,6 +199,175 @@ console.log("🚀 Ready to build something AMAZING? Let's connect!");
 
 <div align="center">
 
+## 📊 SKILL PROFICIENCY
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**JavaScript / ES2024**
+`████████████████████ 95%`
+
+**React & Ecosystem**
+`███████████████████░ 90%`
+
+**Node.js & Express**
+`██████████████████░░ 85%`
+
+**MongoDB / NoSQL**
+`█████████████████░░░ 80%`
+
+**HTML5 & CSS3**
+`████████████████████ 98%`
+
+</td>
+<td width="50%" valign="top">
+
+**Sass / Styling**
+`███████████████████░ 90%`
+
+**Firebase**
+`████████████████░░░░ 78%`
+
+**Google Cloud (GCP)**
+`█████████████░░░░░░░ 65%`
+
+**Microsoft Azure**
+`████████████░░░░░░░░ 60%`
+
+**Web3 / Blockchain**
+`████████████░░░░░░░░ 55%` *(actively growing)*
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+## 🚀 FEATURED PROJECTS
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Project Alpha — Full-Stack Web App
+
+<img src="https://img.shields.io/badge/STATUS-🔥_PRODUCTION-00FFB3?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/TYPE-FULLSTACK-007ACC?style=for-the-badge&labelColor=000000"/>
+
+**Scalable React + Node.js application**
+
+#### ✨ FEATURES:
+- ⚛️ **React Frontend** — Responsive, fast SPA
+- 🔧 **Node.js API** — RESTful endpoints
+- 🗄️ **MongoDB** — Optimized data layer
+- 🔐 **Auth** — JWT-based authentication
+- ☁️ **Deployed** — Firebase Hosting
+
+#### 💪 TECH STACK:
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase)
+
+[![GitHub](https://img.shields.io/badge/🌟_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zayd)
+
+</td>
+<td width="50%" valign="top">
+
+### ⛓️ Project Beta — Web3 DApp
+
+<img src="https://img.shields.io/badge/STATUS-🚧_IN_PROGRESS-yellow?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/TYPE-WEB3-8B5CF6?style=for-the-badge&labelColor=000000"/>
+
+**Decentralized application on Ethereum**
+
+#### ✨ FEATURES:
+- 🔗 **Smart Contracts** — Solidity-powered
+- 💼 **MetaMask** — Wallet integration
+- 🎨 **React UI** — Clean DApp interface
+- ⚡ **Web3.js** — Blockchain interaction
+- 🌍 **IPFS** — Decentralized storage
+
+#### 💪 TECH STACK:
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+
+[![GitHub](https://img.shields.io/badge/🌟_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zayd)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Project Gamma — Cloud-Native API
+
+<img src="https://img.shields.io/badge/STATUS-✅_LIVE-00FFB3?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/TYPE-BACKEND-009688?style=for-the-badge&labelColor=000000"/>
+
+**Serverless REST API on Google Cloud**
+
+#### ✨ FEATURES:
+- ⚡ **Cloud Functions** — Serverless endpoints
+- 🗄️ **Firestore** — Real-time database
+- 🔐 **Firebase Auth** — Secure access
+- 📊 **Monitoring** — GCP dashboards
+- 🚀 **Auto-scaling** — Zero downtime
+
+#### 💪 TECH STACK:
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+[![GitHub](https://img.shields.io/badge/🌟_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zayd)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Project Delta — Gatsby Portfolio
+
+<img src="https://img.shields.io/badge/STATUS-🔥_PRODUCTION-00FFB3?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/TYPE-FRONTEND-663399?style=for-the-badge&labelColor=000000"/>
+
+**Lightning-fast static portfolio site**
+
+#### ✨ FEATURES:
+- ⚡ **Gatsby** — Sub-second load times
+- 🎨 **Sass** — Custom design system
+- 📱 **Responsive** — All screen sizes
+- 🔍 **SEO Optimized** — 100 Lighthouse score
+- 🌙 **Dark Mode** — System preference aware
+
+#### 💪 TECH STACK:
+![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+[![GitHub](https://img.shields.io/badge/🌟_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zayd)
+[![Live](https://img.shields.io/badge/🌐_LIVE_DEMO-00FFB3?style=for-the-badge&logo=vercel&logoColor=black)](https://zayd.dev)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![See All Projects](https://img.shields.io/badge/🚀_SEE_ALL_PROJECTS-00FFB3?style=for-the-badge&logo=github&logoColor=black&labelColor=000000)](https://github.com/zayd?tab=repositories)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
 ## 📊 GITHUB METRICS & ANALYTICS
 
 <br/>
@@ -193,6 +397,67 @@ console.log("🚀 Ready to build something AMAZING? Let's connect!");
 ## 🏆 GITHUB TROPHIES
 
 <img src="https://github-profile-trophy.vercel.app/?username=zayd&theme=algolia&no-frame=false&no-bg=false&margin-w=6&row=1" width="100%" alt="Trophy" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+## 🎖️ ACHIEVEMENTS & MILESTONES
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🏆-SIH%202019-gold?style=for-the-badge&labelColor=000000"/>
+<br><sub>Grand Finalist</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/💼-GirlScript-purple?style=for-the-badge&labelColor=000000"/>
+<br><sub>Project Lead Intern</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🌟-Open%20Source-00FFB3?style=for-the-badge&labelColor=000000"/>
+<br><sub>Active Contributor</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🎤-Community-blue?style=for-the-badge&labelColor=000000"/>
+<br><sub>Meetup Speaker</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 🎯 CERTIFICATIONS IN PROGRESS
+
+<img src="https://img.shields.io/badge/Google_Cloud-Associate_Cloud_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Azure-AZ--900_Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web3-Blockchain_Developer-8B5CF6?style=for-the-badge&logo=ethereum&logoColor=white"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+## 📈 CODING ACTIVITY
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   12 hrs 30 mins  ████████████░░░░░░░░  58.2%
+CSS          4 hrs 15 mins   ████░░░░░░░░░░░░░░░░  19.8%
+React/JSX    2 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░  12.8%
+Bash         1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░   5.4%
+Other        45 mins         ░░░░░░░░░░░░░░░░░░░░   3.8%
+```
+<!--END_SECTION:waka-->
+
+> ⚙️ *Set up [WakaTime](https://wakatime.com) + [waka-readme](https://github.com/athul/waka-readme) to auto-update this section with real coding stats*
 
 </div>
 
@@ -343,7 +608,9 @@ personality:
   team_player:    true
   night_owl:      true
 
-motto: "Explore 🔥 and Explode 💥 with knowledge"
+superpower:  "Turning ☕ into 🚀"
+weakness:    "Can't resist a coding challenge"
+motto:       "Explore 🔥 and Explode 💥 with knowledge"
 ```
 
 </td>
@@ -353,18 +620,50 @@ motto: "Explore 🔥 and Explode 💥 with knowledge"
 
 ```diff
 + 🚀 Build & ship 5+ production projects
-+ 🌐 Launch a Web3 DApp
-+ ☁️ Get GCP / Azure certified
++ 🌐 Launch a Web3 DApp on mainnet
++ ☁️ Get GCP Associate Cloud Engineer cert
++ ☁️ Get Azure AZ-900 Fundamentals cert
 + 📦 Contribute to major open source repos
 + 🏆 Speak at a tech conference
 + 💡 Launch a personal SaaS product
 + 👥 Mentor 10+ junior developers
 + ⭐ Reach 500+ GitHub stars
++ 📝 Write 12+ technical blog posts
 ```
 
 </td>
 </tr>
 </table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+## 📝 ENGINEERING PHILOSOPHY
+
+> *"Clean code is not written by following a set of rules. You know you are working on clean code when each routine you read turns out to be pretty much what you expected."*
+> **— Code First**
+
+> *"Every great developer you know got there by solving problems they were unqualified to solve until they did it."*
+> **— Keep Pushing**
+
+> *"The best time to plant a tree was 20 years ago. The second best time is now."*
+> **— Start Today**
+
+> *"Web3 isn't just technology — it's a shift in how humans collaborate and own value online."*
+> **— Big Picture Thinking**
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+## 😂 RANDOM DEV JOKE
+
+<img src="https://readme-jokes.vercel.app/api?theme=dark&bgColor=0d1117&textColor=00FFB3&aColor=00FFB3&borderColor=00FFB3" alt="Jokes Card" />
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
